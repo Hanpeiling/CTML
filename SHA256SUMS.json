@@ -1,0 +1,7 @@
+{
+  "data/curated_data_with_splits.csv": "abf78314c36070a8bf28574c8227ca6ab1d34b4288737d4b0b1f5ba1d390cd80",
+  "fixed_hyperparameters.json": "0dedd18c8f924f77ff66c700da4b8f3347cb94b4c26a17fd0c2a60d57686eeda",
+  "model/multitask_model.pt": "f0ca118a7858869b1725c7e4ffee0ee738b6ee198d9460d0d139c00f20c4c95f",
+  "model/cross_task_evidence_store.joblib": "ee580685639201080a5bd0c7210def2e6e29ebd38d10c4eeb2c5f355bb24db88",
+  "weights/frozen_lc50_expert.pt": "8b17e00956a15bbfc0ba47b15ac048dc363e67afeec65dd5216ba61d8398af31"
+}

@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.log
+.ipynb_checkpoints/
+.molecular_graph_cache/
+outputs_CTML/
+outputs_*/
+*.tmp
+.DS_Store
+.idea/
+.vscode/
+.env
